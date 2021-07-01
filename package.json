@@ -1,0 +1,23 @@
+{
+  "name": "data-structures-and-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/Queues/Erastosthenes_algorithm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gadzorgenu/data-structures-and-algorithms.git"
+  },
+  "author": "Georgina Adzorgenu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gadzorgenu/data-structures-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/gadzorgenu/data-structures-and-algorithms#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
